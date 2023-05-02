@@ -6,9 +6,9 @@ namespace BotSharp.Channel.FacebookMessenger.Models
 {
     public class WebhookMessageRecipient
     {
-        /// <summary>
-        /// PAGE_ID
-        /// </summary>
+        //// <summary>
+        ////PAGE_ID
+        ////</summary>
         public String Id { get; set; }
     }
 }
